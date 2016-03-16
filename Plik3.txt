@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 kot ma ale 22e
+=======
+kot ma ale jaja
+>>>>>>> Stashed changes
